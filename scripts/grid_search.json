@@ -1,0 +1,22 @@
+{ "epochs": [
+    1, 2
+    ],
+    "lr": [
+    0.00001, 0.0001
+    ],
+    "r": [
+      32, 128
+      ],
+    "scaling": [
+    0.5, 1, 2
+    ],
+    "lora_dropout": [
+    0.1
+    ],
+    "output_dir": [
+      "/mnt/shareddata/yiyan/grid_search/gs_050224_more_hyperparams"
+    ],
+    "available_gpus": [
+      0, 1, 2, 3
+    ]
+  }
